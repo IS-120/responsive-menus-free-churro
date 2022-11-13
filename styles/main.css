@@ -254,6 +254,7 @@ header ul a {
   font-size: 1.4rem;
 }
 
+/** styles for when menu is displayed */
 .close .menu-icon {
   background-color: transparent;
 }
